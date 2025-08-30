@@ -2,8 +2,8 @@
 
 This addon depends on:
 
-- [hr](https://github.com/bringout/oca-ocb-hr/tree/f288f1185aa474d2fbc3385a757b169c442c3acf/odoo-bringout-oca-ocb-hr)
-- [hr_contract](https://github.com/bringout/oca-ocb-hr/tree/f288f1185aa474d2fbc3385a757b169c442c3acf/odoo-bringout-oca-ocb-hr_contract)
+- [hr](https://github.com/bringout/oca-ocb-hr/tree/aa000c65134cd084402a3f35a3bfc3672d5c1d57/odoo-bringout-oca-ocb-hr)
+- [hr_contract](https://github.com/bringout/oca-ocb-hr/tree/aa000c65134cd084402a3f35a3bfc3672d5c1d57/odoo-bringout-oca-ocb-hr_contract)
 - [payroll](https://github.com/bringout/oca-payroll)
-- [base_address_extended](https://github.com/bringout/oca-ocb-core/tree/11a704b400b8bf0763643e267bf123858a85c9e6/odoo-bringout-oca-ocb-base_address_extended)
-- [l10n_bs](https://github.com/bringout/odoo-bringout-l10n_bs/tree/a3f1b2a21507ba4c22defd128c0aa3a954282f3a)
+- [base_address_extended](https://github.com/bringout/oca-ocb-core/tree/b8a76bf74d4ef2767aa510ddf3515d4c8c9b941d/odoo-bringout-oca-ocb-base_address_extended)
+- [l10n_bs](https://github.com/bringout/odoo-bringout-l10n_bs/tree/9cbd049144cc12d1c37419928004ba206200e6bb)
